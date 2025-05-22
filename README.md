@@ -37,7 +37,7 @@ A sleek and responsive e-commerce website built with React, featuring a modern d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/e-commerce.git
+ git clone https://github.com/tajagn01/e-commerce-website.git
 ```
 
 2. Navigate to the project directory:
