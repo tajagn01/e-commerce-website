@@ -2,6 +2,7 @@
 
 A sleek and responsive e-commerce website built with React, featuring a modern design and smooth user experience. This project showcases a beautiful hero section with dynamic slideshow, featured products, benefits section, and newsletter subscription.
 
+## see live website : https://e-commrece01.netlify.app/
 
 ## 🌟 Features
 
