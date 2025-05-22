@@ -2,7 +2,6 @@
 
 A sleek and responsive e-commerce website built with React, featuring a modern design and smooth user experience. This project showcases a beautiful hero section with dynamic slideshow, featured products, benefits section, and newsletter subscription.
 
-![E-Commerce Website Preview](public/preview.png)
 
 ## 🌟 Features
 
@@ -123,8 +122,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
 
-## 📞 Contact
-
-Tajagn - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/e-commerce](https://github.com/yourusername/e-commerce)
